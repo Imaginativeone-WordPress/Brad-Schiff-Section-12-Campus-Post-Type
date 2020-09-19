@@ -1,0 +1,6 @@
+- [ ] Section 12: Campus Post Type 2/5 | 1hr 4min
+  - [ ] 49. Note About Google Maps JavaScript API 1min
+  - [ ] 50. Campus Post Type 20min
+  - [ ] 51. Campus Map on Front-End 18min
+  - [ ] 52. Campuses Continued 20min
+  - [ ] 53. Final Campus Details 5min
